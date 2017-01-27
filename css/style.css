@@ -1,0 +1,20 @@
+/*html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif;}*/
+html,body,h1,h2,h3,h4,h5 {font-family: 'Joti One', cursive;}
+.container{max-height: 100%; max-width: 100%;}
+.navbar-inverse .navbar-brand {color: teal;}
+.glyphicon {color: teal;}
+.footer i {font-size: 40px;}
+
+.btn-default{color: #333; background-color: teal; border-color: #ccc;}
+.dropdown-menu {background-color: #999;}
+.dropdown-menu>li>a {color: #fff;}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-tag {cursor:pointer}
+.w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+@media screen and (max-width:600px) {
+  /*.footer{width: 100%; bottom: 0; position: fixed;}*/
+}
+.w3-content {max-width: 800px; margin-top: 50px; margin-bottom: 50px;}
+.navbar-inverse {border-radius: 0;}
+
+.dropdown-menu>li>a>i {color:teal; font-size:large;}
